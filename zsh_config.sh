@@ -1,5 +1,5 @@
 alias la="ls -al"
-alias sublime="rmate"
+alias sublime="rsub"
 
 alias config="sublime $HOME/.zsh_config.sh"
 alias profile="sublime $HOME/.zshrc"
