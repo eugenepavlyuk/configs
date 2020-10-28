@@ -2,5 +2,5 @@
 alias la="ls -al"
 
 reload() {
-	. $HOME/.zshrc
+	source $HOME/.zshrc
 }
