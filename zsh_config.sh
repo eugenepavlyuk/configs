@@ -1,5 +1,5 @@
 alias la="ls -al"
-alias laaa="ls -al"
+alias lll="ls -al"
 alias sublime="rsub"
 
 alias config="sublime $HOME/.zsh_config.sh"
