@@ -24,6 +24,10 @@ push_onboarding() {
 	popd
 }
 
+run_onboarding() {
+	zsh $HOME/playground/onboarding/onboarding_cloud.sh
+}
+
 pull_config() {
 	pushd "$HOME/playground/configs/"
 	git pull origin master
