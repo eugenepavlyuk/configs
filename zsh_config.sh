@@ -28,7 +28,7 @@ push_onboarding() {
 }
 
 run_onboarding() {
-	zsh $HOME/playground/onboarding/onboarding_cloud.sh
+	. $HOME/playground/onboarding/onboarding_cloud.sh
 }
 
 pull_config() {
