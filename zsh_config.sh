@@ -4,6 +4,8 @@ alias sublime="rsub"
 alias config="sublime $HOME/.zsh_config.sh"
 alias profile="sublime $HOME/.zshrc"
 alias onboarding="sublime $HOME/playground/onboarding/onboarding_cloud.sh"
+alias onboardings="cd $HOME/playground/onboarding"
+alias configs="cd $HOME/playground/configs"
 alias zconfig="sublime $HOME/playground/configs/zsh_config.sh"
 
 reload() {
