@@ -1,6 +1,4 @@
 alias la="ls -al"
-alias lll="ls -al"
-alias llll="ls -al"
 alias sublime="rsub"
 
 alias config="sublime $HOME/.zsh_config.sh"
@@ -9,6 +7,7 @@ alias onboarding="sublime $HOME/playground/onboarding/onboarding_cloud.sh"
 alias onboardings="cd $HOME/playground/onboarding"
 alias configs="cd $HOME/playground/configs"
 alias zconfig="sublime $HOME/playground/configs/zsh_config.sh"
+alias workspaces="cd $HOME/workplace"
 
 reload() {
 	source $HOME/.zshrc
