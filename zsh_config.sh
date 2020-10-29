@@ -8,6 +8,7 @@ alias onboardings="cd $HOME/playground/onboarding"
 alias configs="cd $HOME/playground/configs"
 alias zconfig="sublime $HOME/playground/configs/zsh_config.sh"
 alias workspaces="cd $HOME/workplace"
+alias acs="cd $HOME/workplace/ACSControlPlane"
 
 reload() {
 	source $HOME/.zshrc
