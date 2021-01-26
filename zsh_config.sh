@@ -1,3 +1,5 @@
+source ~/.zshrc.pre-oh-my-zsh
+
 alias la="ls -al"
 alias sublime="rsub"
 
